@@ -25,8 +25,17 @@ Aplicação web desenvolvida em React que permite visualizar, buscar e filtrar p
 
 ## 📸 Preview
 
-
 ![preview](./preview.png)
+
+![preview](./preview-detalhes.png)
+
+
+
+---
+
+## 🌐 Deploy
+
+👉 https://wiarley-sena.github.io/API-REST-para-pa-ses/
 
 ---
 
@@ -36,15 +45,14 @@ Aplicação web desenvolvida em React que permite visualizar, buscar e filtrar p
 # Clone o repositório
 git clone https://github.com/wiarley-sena/API-REST-para-pa-ses.git
 
-
 # Acesse a pasta
-cd country-explorer
+cd API-REST-para-pa-ses
 
 # Instale as dependências
 npm install
 
 # Rode o projeto
-npm run dev
+npm start
 ```
 
 ---
@@ -67,12 +75,6 @@ Durante o desenvolvimento deste projeto, aprendi:
 * 🌐 Tradução (PT/EN)
 * 🔗 Integração com API real (REST Countries)
 * 📱 Melhor responsividade
-
----
-
-## 📎 Deploy
-
-👉 
 
 ---
 
