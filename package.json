@@ -2,7 +2,7 @@
   "name": "primeiro-projeto-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://WiarleySena.github.io/API-REST-para-pa-ses",
+  "homepage": "https://Wiarley-Sena.github.io/API-REST-para-pa-ses",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
